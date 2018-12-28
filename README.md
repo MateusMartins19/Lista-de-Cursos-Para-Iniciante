@@ -64,7 +64,7 @@ https://www.youtube.com/watch?v=kkOSweUhGZM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6n
 MOBILE: Curso React Native
 https://rocketseat.com.br/starter/curso-gratuito-react-native
 
-Responda o Questionario e entre para o nosso Grupo do Whatsapp pra troca de conhecimentos, resolução de duvidas e aumentar o  seu networking:
+Responda o Questionario e entre no nosso Grupo do Whatsapp para troca de conhecimentos, resolução de duvidas e aumente o seu networking:
 http://encurtador.com.br/xHJMZ
 
  
