@@ -64,12 +64,10 @@ https://www.youtube.com/watch?v=kkOSweUhGZM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6n
 MOBILE: Curso React Native
 https://rocketseat.com.br/starter/curso-gratuito-react-native
 
-Parabéns!!! 
+Responda o Questionario e entre para o nosso Grupo do Whatsapp pra troca de conhecimentos, resolução de duvidas e aumentar o  seu networking:
+http://encurtador.com.br/xHJMZ
+
+ 
 Espero que com esses cursos, SE VOCÊ seguir interruptamente os estudos, ao longo de 6 meses você poderá alcançar uma vaga na área de desenvolvimento de sistemas web e mobile.
  
 
-Leandro Venâncio
-Fone: (48) 9 9668-4462
-e-mail: leandrohilariovenancio@gmail.com
-           prof.lhv@gmail.com
-Skype: leandro.h.venancio
